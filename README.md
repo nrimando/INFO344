@@ -4,7 +4,8 @@ INFO 344 Spring 2015
 RESOURCES
 
 # Readings from Canvas:
-C# 5.0 in a Nutshell: The Definitive Reference
+C\# 5.0 in a Nutshell: The Definitive Reference
+
 http://www.google.com - Google is your bestfriend!
 http://www.w3schools.com/
 http://stackoverflow.com
