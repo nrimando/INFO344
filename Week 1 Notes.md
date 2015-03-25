@@ -1,13 +1,13 @@
-Local Hosting for Development
+# Local Hosting for Development
 
-LAMP/WAMP/MAMP
+## LAMP/WAMP/MAMP
 
-http://www.wampserver.com - Windows
-http://www.mamp.info - Mac & Windows
+### http://www.wampserver.com - Windows
+### http://www.mamp.info - Mac & Windows
 
-Notes:
+##Notes:
 
-For MAMP, localhost => http://localhost:8888/
-	default folder: /Applications/MAMP/htdocs/
-For WAMP, localhost => http://localhost/
-	default folder: C:\wamp\www
+### For MAMP, localhost => http://localhost:8888/
+	- default folder: /Applications/MAMP/htdocs/
+###For WAMP, localhost => http://localhost/
+	- default folder: C:\wamp\www
