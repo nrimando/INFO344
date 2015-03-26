@@ -9,3 +9,27 @@
 	- default folder: /Applications/MAMP/htdocs/
 #### For WAMP, localhost => http://localhost/
 	- default folder: C:\wamp\www
+
+### Intro to PHP
+
+##### Single Quote vs. Double Quote
+###### Double quotes 
+Parses strings => slower
+Best suited for:
+- escaped strings
+- strings with multiple variables and plain text
+- condensing multi-line concatenation, & improving readibility
+
+<?php
+echo 'phptherightway is ' . $adjective . '.'
+	. "\n"
+	. 'I love learning' . $code . '!';
+?>
+- single quotes => uses multiple concatenating for variables & escaped string
+
+vs.
+
+<?php
+echo "phptherightway is $adjective.\n I love learning $code!"
+?>
+- double quotes => enables us to use a parsable string
