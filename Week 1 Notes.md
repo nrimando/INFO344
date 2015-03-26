@@ -1,4 +1,4 @@
-# Local Hosting for Development
+## Local Hosting for Development
 
 ### LAMP/WAMP/MAMP
 
@@ -9,16 +9,18 @@
 	- default folder: /Applications/MAMP/htdocs/
 #### For WAMP, localhost => http://localhost/
 	- default folder: C:\wamp\www
+	- 
+---
 
-### Intro to PHP
+## Intro to PHP
 
 ##### Single Quote vs. Double Quote
 ###### Double quotes 
-Parses strings => slower
-Best suited for:
-- escaped strings
-- strings with multiple variables and plain text
-- condensing multi-line concatenation, & improving readibility
+1. Parses strings => slower
+2. Best suited for:
+  * escaped strings
+  * strings with multiple variables and plain text
+  * condensing multi-line concatenation, & improving readibility
 
 ```php
 <?php
