@@ -20,16 +20,19 @@ Best suited for:
 - strings with multiple variables and plain text
 - condensing multi-line concatenation, & improving readibility
 
+```php
 <?php
 echo 'phptherightway is ' . $adjective . '.'
 	. "\n"
 	. 'I love learning' . $code . '!';
 ?>
+```
 - single quotes => uses multiple concatenating for variables & escaped string
 
 vs.
-
+```php
 <?php
 echo "phptherightway is $adjective.\n I love learning $code!"
 ?>
+```
 - double quotes => enables us to use a parsable string
