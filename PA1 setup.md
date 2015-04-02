@@ -1,8 +1,8 @@
 # Amazon AWS
-EC2
+### EC2
 <Launch Instance>
-FREE TIER
-1. Choose AMI -> SUSE Linux 
+###### Make sure you choose FREE TIER options!
+1. Choose AMI -> SUSE Linux
 2. Choose Instance Type -> t2.micro
 3. Configure Instance -> Enable CloudWatch
 4. Add Storage (nothing)
